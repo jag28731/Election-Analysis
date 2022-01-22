@@ -9,7 +9,7 @@ The purpose of my analysis was to conduct an election audit and visually show wh
 ## Election-Audit Results
 Seth and Tom asked me to do an election audit to show the winner. I was able to create a program to calculate the results of the election and display the winner, largest county turnout and break down the candidates and county votes and percentages. 
 
-### Analysis of 2018 Stocks
+### Results
 - How many votes were cast in this congressional election?
 
   There was a total of 369,711 votes casted in the election.

@@ -11,6 +11,7 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
 
 ### Analysis of 2018 Stocks
 - How many votes were cast in this congressional election?
+
   There was a total of 369,711 votes casted in the election.
   
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.

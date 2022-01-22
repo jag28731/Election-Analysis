@@ -14,6 +14,8 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
 
   There was a total of 369,711 votes casted in the election.
   
+  ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
+  
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
   There were three counties where votes were cast. The counties were Arapahoe, Denver, and Jefferson. The counties votes were broken down as follows:
@@ -21,9 +23,13 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
     Denver - 272,892 votes, 82.8% of the total votes.
     Jefferson - 38,855 votes, 10.5% of the total votes. 
     
+  ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
+  
 - Which county had the largest number of votes?
 
   Denver had the most votes with 82.8% of the total votes. 
+  
+  ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
   
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -32,10 +38,13 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
   Diana DeGette - 272,892 votes, 73.8% of the total votes. 
   Raymon Anthony Doane - 11,606, 3.1% of the total votes. 
   
+  ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
+  
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
   Diana DeGette won the election with a total of 272,892 votes, 73.8% of the total votes.
 
+![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 ![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
 ## Election-Audit Summary

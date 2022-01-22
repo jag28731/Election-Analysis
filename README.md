@@ -39,16 +39,9 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
 ![2018](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2018.png)
 
 ## Election-Audit Summary
-- What are the advantages of refactoring code?
-1. Quicker result feed back time.
-2. Can analyze a larger database. 
-3. Not reinventing the wheel, using previous code for larger datasets 
 
-- What are the disadvantages of refactoring code?
-1. Understanding which code needs to be refactored.
-2. Ensuring all code is complete and in the right section.
+The script that was written for this election was a quick process to visually see who won the election audit. The script can be used for other elections with a quick modification of the candidates and counties to visually show the results of any election. All the county has to do is create a spreadsheet with the new election stats and then run the script to quickly determine who won the election.
 
-- How do these pros and cons apply to refactoring the original VBA script?
-1. I was able to analyze multiple years of stocks is a faster manner. The multiple years contained more datasets which the refactored code allowed me to analyze quickly. 
-2. I initially had a single line of code in the wrong section, which led to a run time error and alot of debugging until I figured out the answer.
-3. There was new code that I didn't completely understand, I had to research code to ensure I was using it correctly, which took time. 
+One way this script could be modified to use in another election is if there is a vote on a new law. Instead of using candidates and county, the new script could contain a pass or not pass code. This will allow all the votes for the new law to be displayed on whether the new law will be passed or not. 
+
+Another way is if a county or state is trying to decide what kind of building should be built in an empty lot. The new script could be written to display which building the residents voted on to build. 

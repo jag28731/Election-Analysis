@@ -14,21 +14,25 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
   There was a total of 369,711 votes casted in the election.
   
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
   There were three counties where votes were cast. The counties were Arapahoe, Denver, and Jefferson. The counties votes were broken down as follows:
     Arapahoe - 24,801 votes, 23% of the total votes.
     Denver - 272,892 votes, 82.8% of the total votes.
     Jefferson - 38,855 votes, 10.5% of the total votes. 
     
 - Which county had the largest number of votes?
+
   Denver had the most votes with 82.8% of the total votes. 
   
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
   There were three candidates that were voted for in this election. The cadidates were Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane. The candidates voted for       were broken down as follows:
   Charles Casper Stockham - 85,213 votes, 23% of the total votes.
   Diana DeGette - 272,892 votes, 73.8% of the total votes. 
   Raymon Anthony Doane - 11,606, 3.1% of the total votes. 
   
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
   Diana DeGette won the election with a total of 272,892 votes, 73.8% of the total votes.
 
 ![2018](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2018.png)

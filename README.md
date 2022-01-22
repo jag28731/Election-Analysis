@@ -36,7 +36,7 @@ Seth and Tom asked me to do an election audit to show the winner. I was able to 
 
   Diana DeGette won the election with a total of 272,892 votes, 73.8% of the total votes.
 
-![2018](https://github.com/jag28731/VBA-Challenge/blob/main/Resources/VB_Challenge_2018.png)
+![Results](https://github.com/jag28731/Election-Analysis/blob/main/Resources/election_analysis.txt)
 
 ## Election-Audit Summary
 
